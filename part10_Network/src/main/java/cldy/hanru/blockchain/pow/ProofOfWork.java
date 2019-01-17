@@ -24,7 +24,7 @@ public class ProofOfWork {
      * 0000 0000 0000 0000 1001 0001 0000  .... 0001
      * 256位Hash里面前面至少有16个零
      */
-    public static final int TARGET_BITS = 16;
+    public static final int TARGET_BITS = 2; //virtual machine, lower hardship
     
     /**
      * 要验证的区块
