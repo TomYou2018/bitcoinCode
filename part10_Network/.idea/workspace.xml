@@ -1,121 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="771fdb84-64e7-40ec-934f-d97e5804203a" name="Default Changelist" comment="">
+    <list default="true" id="1ba20136-a733-4233-8c39-a1f5add3ac58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/part10_Network.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000004.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000013.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000024.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000033.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000037.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000055.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000061.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/000063.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3000.db/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3000.db/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3000.db/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539243911758499" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539248616098712" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539250846485204" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539251140370495" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539251173036149" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539251188638910" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1539251385979187" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708672967360" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708693388451" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708703275257" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708707290160" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708714014344" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708775340148" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708790446671" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708804378470" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708848278102" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708901790037" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708906102783" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/LOG.old.1547708938204807" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/MANIFEST-000023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/MANIFEST-000062" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/OPTIONS-000023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/OPTIONS-000026" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3000.db/OPTIONS-000065" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000004.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000013.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000037.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000042.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000051.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000055.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/000057.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3001.db/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3001.db/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3001.db/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539243911758499" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539248616098712" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539250846485204" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251140370495" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251173036149" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251188638910" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251221988465" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251233226639" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251243733317" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251703715766" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251829426446" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251839962769" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1539251852716770" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1547709004059310" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1547709028137895" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1547709038075578" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/LOG.old.1547709043017862" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/MANIFEST-000041" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/MANIFEST-000056" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/OPTIONS-000041" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/OPTIONS-000044" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/OPTIONS-000056" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3001.db/OPTIONS-000059" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/000004.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/000013.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/000021.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3002.db/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3002.db/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3002.db/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG.old.1539243911758499" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG.old.1539251619432526" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG.old.1539251648812037" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG.old.1539251800004020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG.old.1539251816788972" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/LOG.old.1539252735123028" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/MANIFEST-000020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/OPTIONS-000020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_3002.db/OPTIONS-000023" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_3002.db/OPTIONS-000023" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/000004.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/000015.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/CURRENT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/IDENTITY" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/LOG.old.1547707461105921" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/LOG.old.1547707560415213" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/LOG.old.1547707649192648" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/LOG.old.1547707759058838" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/MANIFEST-000014" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/OPTIONS-000014" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_8899.db/OPTIONS-000017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/000004.sst" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_genesis.db/000004.sst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/000006.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_genesis.db/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/IDENTITY" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_genesis.db/IDENTITY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_genesis.db/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/LOG.old.1539243911758499" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/MANIFEST-000005" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/OPTIONS-000005" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockchain_genesis.db/OPTIONS-000008" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain_genesis.db/OPTIONS-000008" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/pow/ProofOfWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/pow/ProofOfWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cldy/hanru/blockchain/pow/ProofOfWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cldy/hanru/blockchain/pow/ProofOfWork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet_3000.dat" beforeDir="false" afterPath="$PROJECT_DIR$/wallet_3000.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet_3001.dat" beforeDir="false" afterPath="$PROJECT_DIR$/wallet_3001.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet_3002.dat" beforeDir="false" afterPath="$PROJECT_DIR$/wallet_3002.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet_8888.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet_8899.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wallet_null.dat" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,42 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/store/RocksDBUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/pow/ProofOfWork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/net/ServerSocketClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -173,199 +32,79 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/pow/ProofOfWork.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="129" />
+    <option name="y" value="159" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="67" />
-    <option name="width" value="1260" />
-    <option name="height" value="666" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="part10_Network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part10_Network" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="part10_Network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part10_Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="part10_Network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part10_Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="part10_Network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part10_Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="part10_Network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part10_Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="block" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cli" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pow" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="store" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="part10_Network" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="part10_Network" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="cldy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hanru" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="blockchain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="part10_Network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="part10_Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="pow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547714183993" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -393,177 +132,71 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="771fdb84-64e7-40ec-934f-d97e5804203a" name="Default Changelist" comment="" />
-      <created>1547637723934</created>
+      <changelist id="1ba20136-a733-4233-8c39-a1f5add3ac58" name="Default Changelist" comment="" />
+      <created>1547714503833</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547637723934</updated>
-      <workItem from="1547637748853" duration="3730000" />
-      <workItem from="1547690237061" duration="5420000" />
+      <updated>1547714503833</updated>
+      <workItem from="1547714505183" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9150000" />
+    <option name="totallyTimeSpent" value="46000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="67" width="1260" height="666" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25412542" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49917492" visible="true" weight="0.3295238" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008251" side_tool="true" visible="true" weight="0.3295238" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295238" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain_8899.db/000015.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain_8899.db/LOG">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/store/RocksDBUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/net/ServerSocketClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cldy/hanru/blockchain/pow/ProofOfWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="306">
+          <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>part10_Network</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
